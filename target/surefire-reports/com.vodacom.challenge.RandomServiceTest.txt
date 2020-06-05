@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.vodacom.challenge.RandomServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 46.257 s - in com.vodacom.challenge.RandomServiceTest

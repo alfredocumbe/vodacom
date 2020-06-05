@@ -1,0 +1,12 @@
+com\vodacom\challenge\business\RandomNumberGenerator.class
+com\vodacom\challenge\models\Random.class
+com\vodacom\challenge\RandomResource.class
+com\vodacom\challenge\services\RandomServiceImpl.class
+com\vodacom\challenge\business\ResourceInterceptor.class
+com\vodacom\challenge\services\RandomServiceImpl$2.class
+com\vodacom\challenge\SystemApplication.class
+com\vodacom\challenge\models\SystemUsageStatistic.class
+com\vodacom\challenge\services\RandomService.class
+com\vodacom\challenge\business\OnlineThreadPool.class
+com\vodacom\challenge\services\RandomServiceImpl$1.class
+com\vodacom\challenge\annotation\DelayMe.class
