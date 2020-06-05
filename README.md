@@ -3,7 +3,7 @@
 Steps to run this project:
 
 1. Start your Docker daemon
-2. Execute `buildAndRun.bat` (Windows)
+2. Execute `./buildAndRun.sh` (Linux/MacOs) or `buildAndRun.bat` (Windows)
 3. Wait until Open Liberty is up- and running (`docker logs -f challenge`)
 4. Base URI http://localhost:9080/challenge/
         Operations
